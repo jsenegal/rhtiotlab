@@ -16,7 +16,7 @@ public class Application extends RouteBuilder {
 
     KuraProcess kurProcess = new KuraProcess();
     DBProcessor dbProcessor = new DBProcessor();
-    //test
+    //test again
     public static void main(String[] args) {
         SpringApplication.run(Application.class, args);
     }
